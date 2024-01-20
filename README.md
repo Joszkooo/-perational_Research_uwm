@@ -2,7 +2,7 @@
 *small project, using pyomo library*
 ### Exercise 1
 ![plot](plot_exercise1.png)
->#### **Compared to exam:** I've achieved the same results.
+>#### **Compared to exam:** I've achieved different results.
 
 ### Exercise 2
 
